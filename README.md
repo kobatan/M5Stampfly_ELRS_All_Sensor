@@ -16,8 +16,7 @@ StampFlyのELRS版です。
 〇　電流電圧計（INA3221AIRGVR）I2C [0x40]
 
 マルチコアを利用し、センサー読み込みを分散させています。
-
-<img width="300" src="https://github.com/user-attachments/assets/a41d8cbd-0b13-4dff-a2a9-e2a14cd6b905">
+<img width="300" src="https://github.com/user-attachments/assets/1c84e4b5-fdc7-40cd-84ec-2e7352e59c59">
 
 [M5Stack用テレメトリーモニターはこちらです。](https://github.com/kobatan/Stampfly_Monitor)
 
